@@ -1,9 +1,7 @@
 # Quantium_DataAnalytics
 I has performed the data analysis for the Quantium Virtual Intern Program on TheForage.
 
-You can find the Task1_Quantium refer to the first module of the program.
-
-I am still working on the module 2! Will update later!
+You can find the Task1_Quantium and Task2_Quantium refer to the first and second module of the program respectively.
 
 If you are interested in this program, join via: https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics?ref=MeJuLu2xdzPvh3prh
 
