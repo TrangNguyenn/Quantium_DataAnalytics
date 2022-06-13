@@ -1,4 +1,4 @@
-# Data Analyst Virtual Experience Program of Quantium
+#  Quantium Data Analytics Virtual Experience Program
 ![project-banner](https://github.com/TrangNguyenn/Quantium_DataAnalytics/blob/main/Screenshot%202022-06-13%20184728.png)
 
 The program is provided by Quantium to give students an opportunity to act as a Data Analyst at Quantium and participate in some challenging but fun work. Through this experience, students can gain some practical skills such as data validation, data visualisation, statistical testing and more.
