@@ -56,6 +56,6 @@ Using pip
 ```pip install mlxtend```
 ## Usage
 - Download the files from Github
-- Open and run [Task1_Quantium.ipynb](https://github.com/TrangNguyenn/Quantium_DataAnalytics/blob/main/Task1_Quantium.ipynb) for task 1 and [Task2_Quantium.ipynb](https://github.com/TrangNguyenn/Quantium_DataAnalytics/blob/main/Task2_Quantium.ipynb) for task 2
+- Open the Jupyter Notebook and run [Task1_Quantium.ipynb](https://github.com/TrangNguyenn/Quantium_DataAnalytics/blob/main/Task1_Quantium.ipynb) for task 1 and [Task2_Quantium.ipynb](https://github.com/TrangNguyenn/Quantium_DataAnalytics/blob/main/Task2_Quantium.ipynb) for task 2
 
 *Note*: In my work, the dataset and the notebook are in the same location. However, if you store the dataset in another location comprared to the notebooks, change the *pd.read_csv* parameters with the path to the dataset.
